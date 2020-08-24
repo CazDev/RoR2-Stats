@@ -1,6 +1,6 @@
 # RoR Stats
 
-![image](https://ibb.co/9TL3Xt1)
+![image](https://i.ibb.co/G2L3wT8/unknown.png)
 
 ## How to use sharpmonoinjector
 After you have your dll file, you'll need to have a way to inject it into the game. There are 2 option Command line or with a batch file.
