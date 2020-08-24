@@ -1,4 +1,6 @@
-# RoR Stats
+# RoR2 Stats
+
+Risk of Rain 2 in game stats without using mod loader or thirdparty apps.
 
 ![image](https://i.ibb.co/G2L3wT8/unknown.png)
 
